@@ -18,7 +18,7 @@ Parameters to set for each case:
 If you use the dataset or the code, please cite our paper as:
 ```
 @article{Bayraktar2024,
-  title={Mamba: Linear-Time Sequence Modeling with Selective State Spaces},
+  title={{RIS}-aided joint channel estimation and localization at {mmWave} under hardware impairments: A dictionary learning-based approach},
   author={Bayraktar, Murat and and González-Prelcic, Nuria and Alexandropoulos, George K. and Chen, Hao},
   journal={arXiv preprint},
   year={2024}
