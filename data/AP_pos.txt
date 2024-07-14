@@ -1,0 +1,2 @@
+AP positions (x y z)
+10.0 20.0 9.5

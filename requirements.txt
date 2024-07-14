@@ -1,0 +1,5 @@
+git+https://github.com/Joanguitar/pywarraychannels
+git+https://github.com/WiSeCom-Lab/MOMP-core
+numpy
+scipy
+time
