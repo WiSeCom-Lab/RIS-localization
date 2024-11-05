@@ -19,8 +19,8 @@ If you use the dataset or the code, please cite our paper as:
 ```
 @article{Bayraktar2024,
   title={{RIS}-aided joint channel estimation and localization at {mmWave} under hardware impairments: A dictionary learning-based approach},
-  author={Bayraktar, Murat and and González-Prelcic, Nuria and Alexandropoulos, George K. and Chen, Hao},
-  journal={arXiv preprint},
+  author={Bayraktar, Murat and and González-Prelcic, Nuria and Alexandropoulos, George C. and Chen, Hao},
+  journal={IEEE Trans. Wireless Commun.},
   year={2024}
 }
 ```
